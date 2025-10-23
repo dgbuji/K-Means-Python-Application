@@ -1,0 +1,13 @@
+# Python environment and cache
+__pycache__/
+*.pyc
+venv/
+.idea/
+
+# Data file (DO NOT upload this large file)
+yellow_tripdata_2025-08.parquet
+
+# Results of the script
+clustered_data.csv
+elbow_method.png
+

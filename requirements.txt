@@ -1,0 +1,8 @@
+# Core data handling and clustering
+pandas
+scikit-learn
+pyarrow
+
+# Data visualization (for Elbow plot and results)
+matplotlib
+seaborn
