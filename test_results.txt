@@ -1,0 +1,4 @@
+Error loading Parquet file: [Errno 2] No such file or directory: 'non_existent_file.parquet'
+Successfully loaded 4 rows and 4 columns.
+Successfully loaded 4 rows and 4 columns.
+Successfully loaded 4 rows and 4 columns.
